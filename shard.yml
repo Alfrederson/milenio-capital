@@ -1,0 +1,11 @@
+name: rick_and_morty_meo
+version: 0.1.0
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    version: ~> 0.27
+
+targets:
+  rick_and_morty_meo:
+    main: src/rick_and_morty_meo.cr

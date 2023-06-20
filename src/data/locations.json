@@ -1,0 +1,142 @@
+[
+ {
+  "id": 1,
+  "name": "Earth (C-137)",
+  "type": "Planet",
+  "dimension": "Dimension C-137",
+  "popularity": 61
+ },
+ {
+  "id": 2,
+  "name": "Abadango",
+  "type": "Cluster",
+  "dimension": "unknown",
+  "popularity": 1
+ },
+ {
+  "id": 3,
+  "name": "Citadel of Ricks",
+  "type": "Space station",
+  "dimension": "unknown",
+  "popularity": 219
+ },
+ {
+  "id": 4,
+  "name": "Worldender's lair",
+  "type": "Planet",
+  "dimension": "unknown",
+  "popularity": 16
+ },
+ {
+  "id": 5,
+  "name": "Anatomy Park",
+  "type": "Microverse",
+  "dimension": "Dimension C-137",
+  "popularity": 11
+ },
+ {
+  "id": 6,
+  "name": "Interdimensional Cable",
+  "type": "TV",
+  "dimension": "unknown",
+  "popularity": 75
+ },
+ {
+  "id": 7,
+  "name": "Immortality Field Resort",
+  "type": "Resort",
+  "dimension": "unknown",
+  "popularity": 7
+ },
+ {
+  "id": 8,
+  "name": "Post-Apocalyptic Earth",
+  "type": "Planet",
+  "dimension": "Post-Apocalyptic Dimension",
+  "popularity": 10
+ },
+ {
+  "id": 9,
+  "name": "Purge Planet",
+  "type": "Planet",
+  "dimension": "Replacement Dimension",
+  "popularity": 4
+ },
+ {
+  "id": 10,
+  "name": "Venzenulon 7",
+  "type": "Planet",
+  "dimension": "unknown",
+  "popularity": 1
+ },
+ {
+  "id": 11,
+  "name": "Bepis 9",
+  "type": "Planet",
+  "dimension": "unknown",
+  "popularity": 4
+ },
+ {
+  "id": 12,
+  "name": "Cronenberg Earth",
+  "type": "Planet",
+  "dimension": "Cronenberg Dimension",
+  "popularity": 0
+ },
+ {
+  "id": 13,
+  "name": "Nuptia 4",
+  "type": "Planet",
+  "dimension": "unknown",
+  "popularity": 15
+ },
+ {
+  "id": 14,
+  "name": "Giant's Town",
+  "type": "Fantasy town",
+  "dimension": "Fantasy Dimension",
+  "popularity": 3
+ },
+ {
+  "id": 15,
+  "name": "Bird World",
+  "type": "Planet",
+  "dimension": "unknown",
+  "popularity": 0
+ },
+ {
+  "id": 16,
+  "name": "St. Gloopy Noops Hospital",
+  "type": "Space station",
+  "dimension": "unknown",
+  "popularity": 11
+ },
+ {
+  "id": 17,
+  "name": "Earth (5-126)",
+  "type": "Planet",
+  "dimension": "Dimension 5-126",
+  "popularity": 0
+ },
+ {
+  "id": 18,
+  "name": "Mr. Goldenfold's dream",
+  "type": "Dream",
+  "dimension": "Dimension C-137",
+  "popularity": 9
+ },
+ {
+  "id": 19,
+  "name": "Gromflom Prime",
+  "type": "Planet",
+  "dimension": "Replacement Dimension",
+  "popularity": 0
+ },
+ {
+  "id": 20,
+  "name": "Earth (Replacement Dimension)",
+  "type": "Planet",
+  "dimension": "Replacement Dimension",
+  "popularity": 426
+ }
+]
